@@ -28,7 +28,7 @@ pip install openai datasets transformers tqdm
 You will need an OpenRouter API key to route the models.
 If you plan to use gated datasets like gpqa, you will also need a Hugging Face access token.
 
-**Output**
+##Output
 The script automatically generates a results/ directory containing:
 
 A .txt file with a highly readable log of every step, token counts, and which model generated what.
